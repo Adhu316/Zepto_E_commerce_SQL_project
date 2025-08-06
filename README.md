@@ -1,9 +1,8 @@
 # Zepto_E_commerce_SQL_project
 
-🛒 Zepto SQL Data Analysis Project
+# Zepto SQL Data Analysis Project
 This project showcases end-to-end data exploration, cleaning, and analysis using SQL on a sample dataset inspired by Zepto, a rapid grocery delivery startup. The dataset simulates inventory-level product information such as pricing, discounts, weights, stock status, and categories.
-
-📌 Objectives
+# Objectives
 Explore product inventory data from a structured SQL table
 
 Clean inconsistent, missing, or zero-value records
